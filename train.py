@@ -157,9 +157,6 @@ def train_one_epoch(model, criterion, optimizer, data_loader, lr_scheduler, epoc
 
 
 def main(args):
-    if args.output_dir:
-        os.makedirs(args.output_dir, exist_ok=True)
-
     dataset_train = get_dataset("train", get_transform(args=args), args=args, eval_mode=False)
     dataset_eval = get_dataset("val", get_transform(args=args), args=args, eval_mode=True)
 
