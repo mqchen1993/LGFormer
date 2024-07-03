@@ -73,7 +73,7 @@ datasets/
 - ### Pretrained weights
     | ReferIt | RefCOCO | RefCOCO+ | RefCOCOg |
     |:-----:|:-----:|:-----:|:-----:|
-    |[weights](https://edu-algo-dev.oss-cn-hangzhou.aliyuncs.com/weizhichao/LGFormer/pretrained_weights/model_referit.pth?OSSAccessKeyId=LTAI5tPXtVTaVNdSCH8xk7oh&Expires=5285347531&Signature=Q3u3V2mAcKYEbC7SgOW5hs%2FvQnA%3D)|[weights](https://edu-algo-dev.oss-cn-hangzhou.aliyuncs.com/weizhichao/LGFormer/pretrained_weights/model_refcoco.pth?OSSAccessKeyId=LTAI5tPXtVTaVNdSCH8xk7oh&Expires=5285347412&Signature=I77TdbrSvJ%2FFB6954mhOgrHDq9E%3D)|[weights](https://edu-algo-dev.oss-cn-hangzhou.aliyuncs.com/weizhichao/LGFormer/pretrained_weights/model_refcoco%2B.pth?OSSAccessKeyId=LTAI5tPXtVTaVNdSCH8xk7oh&Expires=5285347475&Signature=0fVJV59ZfPLdnvJyn0DPUUKjbY0%3D)|[weights](https://edu-algo-dev.oss-cn-hangzhou.aliyuncs.com/weizhichao/LGFormer/pretrained_weights/model_refcocog.pth?OSSAccessKeyId=LTAI5tPXtVTaVNdSCH8xk7oh&Expires=5285347503&Signature=fYuEF6UZ%2B5I0qroXhCr%2F0%2Fdui5Q%3D)|
+    |[weights]()|[weights]()|[weights]()|[weights]()|
 - ### Evaluation
     Evaluate our pre-trained model on a specified split of a specified dataset (for example, evaluate on testA set of RefCOCO+):
     ```shell
