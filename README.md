@@ -73,7 +73,7 @@ datasets/
 - ### Pretrained weights
     | ReferIt | RefCOCO | RefCOCO+ | RefCOCOg |
     |:-----:|:-----:|:-----:|:-----:|
-    |[weights]()|[weights]()|[weights]()|[weights]()|
+    |[weights](https://drive.google.com/file/d/1c1_IOb67cg7vFVEAHOnffLlkz_2Mh7vV/view?usp=sharing)|[weights](https://drive.google.com/file/d/1a26aPwAegxXqDfCSG8y5vcBHbsvEcu65/view?usp=sharing)|[weights](https://drive.google.com/file/d/1MCIdIzTXqWIMAsnmuG4l4Zsu15oKr7OM/view?usp=sharing)|[weights](https://drive.google.com/file/d/185L3ezEYPGN1Rk83qegXZyjyQ2gidCIR/view?usp=sharing)|
 - ### Evaluation
     Evaluate our pre-trained model on a specified split of a specified dataset (for example, evaluate on testA set of RefCOCO+):
     ```shell
